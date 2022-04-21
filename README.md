@@ -1,2 +1,2 @@
 # odin-recipes
-odin-recipes
+Second repo named odin-recipes
